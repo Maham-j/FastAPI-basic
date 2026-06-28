@@ -21,3 +21,4 @@ uvicorn main:app --reload
 - `PUT /apis/{id}` — update an api
 - `DELETE /apis/{id}` — delete an api
 
+![FastAPI](Screenshot (1091).png)
